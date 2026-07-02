@@ -1,0 +1,6 @@
+{
+  "name": "Salon Experience",
+  "description": "A luxury salon dashboard featuring an intuitive booking engine, a curated portfolio gallery, and an interactive style visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
